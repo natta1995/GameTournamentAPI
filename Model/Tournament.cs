@@ -1,6 +1,6 @@
 ﻿namespace GameTournamentAPI.Model
 {
-    public class TournamentClass
+    public class Tournament
     {
         public int Id { get; set; }
 
